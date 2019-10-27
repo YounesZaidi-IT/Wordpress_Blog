@@ -1,0 +1,21 @@
+May 13 2019 21:33:25
+{"Number":2,"Message":"preg_match(): JIT compilation failed: no more memory","File":"\/Applications\/MAMP\/htdocs\/wordpress\/wp-includes\/wp-db.php","Line":1877}
+
+May 13 2019 21:33:26
+{"Number":2,"Message":"preg_replace(): JIT compilation failed: no more memory","File":"\/Applications\/MAMP\/htdocs\/wordpress\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-archiver.php","Line":185}
+
+May 13 2019 21:33:44
+{"Number":2,"Message":"preg_match(): JIT compilation failed: no more memory","File":"\/Applications\/MAMP\/htdocs\/wordpress\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/database\/class-ai1wm-database.php","Line":788}
+
+May 13 2019 21:33:46
+{"Number":2,"Message":"preg_replace_callback(): JIT compilation failed: no more memory","File":"\/Applications\/MAMP\/htdocs\/wordpress\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/database\/class-ai1wm-database.php","Line":1064}
+
+May 13 2019 21:33:49
+{"Number":2,"Message":"preg_match(): JIT compilation failed: no more memory","File":"\/Applications\/MAMP\/htdocs\/wordpress\/wp-includes\/formatting.php","Line":4186}
+
+May 13 2019 21:33:50
+{"type":2,"message":"preg_match(): JIT compilation failed: no more memory","file":"\/Applications\/MAMP\/htdocs\/wordpress\/wp-includes\/pomo\/translations.php","line":189}
+
+May 13 2019 21:33:54
+{"type":2,"message":"preg_match(): JIT compilation failed: no more memory","file":"\/Applications\/MAMP\/htdocs\/wordpress\/wp-includes\/kses.php","line":1940}
+

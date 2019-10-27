@@ -1,0 +1,889 @@
+# Translation of Themes - Busiprof in French (France)
+# This file is distributed under the same license as the Themes - Busiprof package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-11-18 10:20:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - Busiprof\n"
+
+#. Description of the theme
+msgid "Busiprof WordPress Theme is a fully responsive and translation-ready theme that allows you to create stunning blogs and websites. The theme is well suited for companies, law firms,ecommerce, finance, agency, travel, photography, recipes, design, arts, personal and any other creative websites and blogs. The theme is developed using Bootstrap 3 that makes it mobile and tablet friendly. It has various options in the WordPress Customizer to change the look of the theme. The theme customizer can be used to add your own favicon, logo, feature slide, services, 2 testimonial slider, blog, callout and much more. In the premium version you can add unlimited slides. There are a number of in-built widgets and support for various popular plugins like WPML, the Polylang Translation WordPress Plugin, Woocommerce and Contact Form 7. 10 beautifully designed templates like About Us, Services, Portfolio 2/3/4 column, Portfolio with Category, Portfolio Archive, Blog Left/Right Sidebar, Blog Fullwidth, Full Width Page, Contact Us and many useful sections for business using the Homepage template. Busiprof theme comes with various Locales. Just navigate to Appearance / Customize to start customizing."
+msgstr "Le thème WordPress BusiProf est entièrement responsive et prêt pour la traduction ce qui vous permet de créer des blogs et de superbes sites. Le thème est bien adapté pour les sites d’entreprises, cabinets d’avocats, voyage, photographie, design, art, personnel et tout autre type de sites et blogs. Le thème est développé en utilisant Bootstrap 3 qui l’optimise pour les mobiles et tablettes. Il possède plusieurs options dans l’outil de personnalisation de WordPress pour changer son apparence. La personnalisation de thème peut être utilisée pour ajouter votre propre en-tête personnalisée, favicon, logo, diaporama de fonctionnalités, services, 2 témoignages, blog, appel à l’action et bien plus encore. Dans la version premium vous pouvez ajouter des types différents de diapositives comme les vidéos, les citations, les statuts et les standards qui ont tous un rendu HTML différent. De nombreux widgets préconçus, des colonnes latérales supportant WPML, Polylang, WooCommerce et Contact Form 7. 10 superbes modèles de portfolio, à propos, services, une page de contact, mises en pages de colonne de portfolio sur 2/3/4 colonnes, et beaucoup de sections sur le modèle de la page d’accueil entreprise. Le thème BusiProf est disponible en plusieurs langues. Vous n’avez qu’à vous rendre dans Apparence/Personnaliser pour commencer votre personnalisation."
+
+#. Theme Name of the theme
+msgid "Busiprof"
+msgstr "Busiprof"
+
+#: functions/customizer/custo_general_settings.php:80
+msgid "Enable logo text"
+msgstr "Activer le texte de logo"
+
+#: theme_setup_data.php:38 functions/customizer/custo_sections_settings.php:186
+msgid "Busiprof: the perfect WordPress theme for an app and web developer"
+msgstr "Busiprof, le thème WordPress parfait pour les développeur web et d’app"
+
+#: theme_setup_data.php:141
+msgid "Our Testimonials"
+msgstr "Nos témoignages"
+
+#: functions/customizer/custo_sections_settings.php:858
+msgid "Number of shown clients"
+msgstr "Nombre de clients affiché"
+
+#: functions/customizer/custo_sections_settings.php:314
+msgid "Want to add more Services? Then upgrade to Pro!"
+msgstr "Vous voulez ajouter plus de services ? Passez à la version Pro."
+
+#: functions/customizer/custo_sections_settings.php:142
+msgid "To add more slider and animation effects click to upgrade to pro"
+msgstr "Pour ajouter plus de diaporamas et d’effets d’animation, cliquez pour passer à la version Pro"
+
+#: functions/breadcrumbs/breadcrumbs.php:108
+msgid "Page"
+msgstr "Page"
+
+#: functions/breadcrumbs/breadcrumbs.php:100
+msgid "Articles posted by"
+msgstr "Articles publiés par"
+
+#: functions/breadcrumbs/breadcrumbs.php:95
+msgid "Posts tagged"
+msgstr "Articles étiquetés"
+
+#: functions/breadcrumbs/breadcrumbs.php:28
+msgid "Search results for"
+msgstr "Résultats de recherche pour"
+
+#: functions/breadcrumbs/breadcrumbs.php:25
+msgid "Archive by category"
+msgstr "Archive par catégorie"
+
+#. Template Name of the theme
+msgid "Home Two"
+msgstr "Accueil deux"
+
+#: index-testimonials.php:97
+msgid "We are a group of passionate designers and developers who really love creating awesome WordPress themes & giving support. Widest laborum dolo rumes fugats untras. Ethar omnis iste natus error sit voluptatem accusantiexplicabo. Nemo enim ipsam eque porro quisquam est, qui dolorem ipsum am quaerat voluptatem..."
+msgstr ""
+"Nous sommes un groupe de concepteurs et dedéveloppeurs passionnés qui aiment vraiment créer de formidables thèmes WordPress et fournir de l'aide.\n"
+"Widest laborum dolo rumes fugats untras. Ethar omnis iste natus error sit voluptatem accusantiexplicabo. Nemo enim ipsam eque porro quisquam est, qui dolorem ipsum am quaerat voluptatem..."
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:511
+#: functions/customizer-repeater/class/customizer-repeater-control.php:544
+msgid "Add Icon"
+msgstr "Ajout d’icône"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:506
+#: functions/customizer-repeater/class/customizer-repeater-control.php:536
+msgid "Remove Icon"
+msgstr "Supprimer l’icône"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:481
+msgid "None"
+msgstr "Aucun"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:476
+msgid "Image type"
+msgstr "Type d’image"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:469
+msgid "Upload Image"
+msgstr "Envoi d’image"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:449
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:448
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "Note : Quelques icônes peuvent ne pas s’afficher ici. Vous pouvez voir la liste complète des icônes sur %1$s"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:432
+msgid "Open link in new tab:"
+msgstr "Ouvrir le lien dans un nouvel onglet :"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:358
+msgid "Text"
+msgstr "Texte"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:309
+#: functions/customizer-repeater/class/customizer-repeater-control.php:398
+msgid "Delete field"
+msgstr "Supprimer le champ"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:285
+#: functions/customizer-repeater/class/customizer-repeater-control.php:381
+msgid "Shortcode"
+msgstr "Code court"
+
+#: functions/customizer/custo_sections_settings.php:446
+#: functions/customizer/custo_sections_settings.php:510
+#: functions/customizer/custo_sections_settings.php:573
+#: functions/customizer/custo_sections_settings.php:635
+#: functions/customizer-repeater/class/customizer-repeater-control.php:277
+#: functions/customizer-repeater/class/customizer-repeater-control.php:374
+#: functions/customizer-repeater/class/customizer-repeater-control.php:503
+#: functions/customizer-repeater/class/customizer-repeater-control.php:525
+msgid "Link"
+msgstr "Lien"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:249
+#: functions/customizer-repeater/class/customizer-repeater-control.php:351
+msgid "Subtitle"
+msgstr "Sous-titre"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:234
+#: functions/customizer-repeater/class/customizer-repeater-control.php:336
+msgid "Color"
+msgstr "Couleur"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:34
+msgid "Customizer Repeater"
+msgstr "Personaliser le répéteur"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:29
+msgid "Add new field"
+msgstr "Ajout de nouveau champ"
+
+#: index-services.php:172 functions/customizer/customizer.php:110
+#: functions/customizer/customizer.php:155
+msgid "24/7 Support"
+msgstr "Support 24/7"
+
+#: index-services.php:172 functions/customizer/customizer.php:101
+#: functions/customizer/customizer.php:146
+msgid "User Friendly"
+msgstr "Optimisation utilisateur"
+
+#: index-services.php:172 functions/customizer/customizer.php:93
+#: functions/customizer/customizer.php:138
+msgid "Unique Elements"
+msgstr "Éléments uniques"
+
+#: functions/customizer/custo_sections_settings.php:772
+msgid "Add new Testimonial"
+msgstr "Ajouter un nouveau témoignage"
+
+#: functions/customizer/custo_sections_settings.php:770
+msgid "Testimonial content"
+msgstr "Contenu du témoignage"
+
+#: functions/customizer/custo_sections_settings.php:736
+msgid "Enable Home Testimonial section"
+msgstr "Activer la section de témoignage d’accueil"
+
+#: functions/customizer/custo_sections_settings.php:696
+msgid "Enable Home Blog meta"
+msgstr "Activer les métas de blog d’accueil"
+
+#: functions/customizer/custo_sections_settings.php:689
+#: functions/customizer/custo_sections_settings.php:701
+#: functions/customizer/custo_sections_settings.php:741
+msgid "OFF"
+msgstr "NON"
+
+#: functions/customizer/custo_sections_settings.php:128
+msgid "Open link in new tab"
+msgstr "Ouvrir le lien dans un nouvel onglet"
+
+#: functions/customizer/custo_sections_settings.php:268
+msgid "Service content"
+msgstr "Contenu du service"
+
+#: functions/customizer/custo_sections_settings.php:688
+#: functions/customizer/custo_sections_settings.php:700
+#: functions/customizer/custo_sections_settings.php:740
+msgid "ON"
+msgstr "OUI"
+
+#: functions/customizer/custo_sections_settings.php:271
+msgid "Add new Service"
+msgstr "Ajouter un nouveau service"
+
+#: functions/customizer/custo_sections_settings.php:684
+msgid "Enable Home Blog section"
+msgstr "Activer la section de blog d’accueil"
+
+#: functions/customizer/custo_post_slugs_settings.php:6
+msgid "SEO Friendly URL"
+msgstr "URL optimisées pour le SEO"
+
+#: index-services.php:186 functions/customizer/customizer.php:86
+#: functions/customizer/customizer.php:94
+#: functions/customizer/customizer.php:102
+#: functions/customizer/customizer.php:111
+#: functions/customizer/customizer.php:131
+#: functions/customizer/customizer.php:139
+#: functions/customizer/customizer.php:147
+#: functions/customizer/customizer.php:156
+msgid "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+msgstr "C’est un fait établi depuis longtemps qu’un lecteur sera distrait par le contenu lisible d'une page en regardant sa mise en page."
+
+#: functions/customizer/custo_sections_settings.php:106
+msgid "#"
+msgstr "#"
+
+#: functions/customizer/custo_sections_settings.php:90
+msgid "Read more"
+msgstr "Lire la suite"
+
+#: functions/customizer/custo_emailcourse.php:29
+msgid "JOIN COURSE"
+msgstr "REJOINDRE LE COURS"
+
+#: functions/customizer/custo_emailcourse.php:25
+msgid "In this email course I deliver 4 highly actionable tips on how you can build a website which is trustworthy and which, in turn, brings more business to you."
+msgstr "Dans ce cours par e-mail, je vous livre 4 conseils hautement exploitables sur la façon de créer des sites de confiance qui vous apporteront plus de business."
+
+#: functions/customizer/custo_emailcourse.php:23
+msgid "Think of your website as a hardworking salesman who works 24/7 and never asks for a raise!"
+msgstr "Pensez à votre site Web comme un vendeur travaillant dur 24/7 et ne demandant jamais d’augmentation !"
+
+#: functions/customizer/custo_emailcourse.php:21
+msgid "To bring you more business."
+msgstr "Augmenter votre chiffre d’affaire."
+
+#: functions/customizer/custo_emailcourse.php:20
+msgid "A website exists for one and ONLY one reason:"
+msgstr "Un site existe pour une seule et UNIQUE raison :"
+
+#: functions/customizer/custo_emailcourse.php:5
+msgid "CREATE TRUSTWORTHY WEBSITES"
+msgstr "CRÉER DES SITES DIGNES DE CONFIANCE"
+
+#: functions/widgets/custom-widgets.php:27
+#: functions/widgets/custom-widgets.php:29
+msgid "WooCommerce sidebar area"
+msgstr "Zone de barre latérale WooCommerce"
+
+#: functions/widgets/custom-widgets.php:7
+#: functions/widgets/custom-widgets.php:9
+msgid "Sidebar widget area"
+msgstr "Zone de widgets de colonne latérale"
+
+#: functions/customizer/custo_template_settings.php:337
+msgid "Select column layout"
+msgstr "Sélectionner la mise en page de la colonne"
+
+#: functions/customizer/custo_template_settings.php:302
+msgid "Project Archive page setting"
+msgstr "Réglages de la page d’archive de projet"
+
+#: functions/customizer/custo_template_settings.php:271
+msgid "Website"
+msgstr "Site internet"
+
+#: functions/customizer/custo_template_settings.php:250
+msgid "Fax"
+msgstr "Fax"
+
+#: functions/customizer/custo_template_settings.php:240
+msgid "Phone"
+msgstr "Téléphone"
+
+#: functions/customizer/custo_template_settings.php:230
+msgid "Address two"
+msgstr "Adresse deux"
+
+#: functions/customizer/custo_template_settings.php:220
+msgid "Address one"
+msgstr "Adresse une"
+
+#: functions/customizer/custo_template_settings.php:185
+msgid "Contact page setting"
+msgstr "Réglages de la page de contact"
+
+#: functions/customizer/custo_template_settings.php:131
+msgid "Project page settings"
+msgstr "Réglages de la page de projet"
+
+#: functions/customizer/custo_template_settings.php:71
+msgid "Service page settings"
+msgstr "Réglages de la page des services"
+
+#: functions/customizer/custo_template_settings.php:14
+msgid "About Us page settings"
+msgstr "Réglages de la page À propos de nous"
+
+#: functions/customizer/custo_sections_settings.php:870
+msgid "Animation speed"
+msgstr "Vitesse de l’animation"
+
+#: theme_setup_data.php:61 functions/customizer/custo_sections_settings.php:834
+msgid "Meet our clients"
+msgstr "Rencontrez nos clients"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:264
+#: functions/customizer-repeater/class/customizer-repeater-control.php:366
+msgid "Designation"
+msgstr "Désignation"
+
+#: functions/customizer/custo_sections_settings.php:349
+msgid "Enable Home Project section"
+msgstr "Activer la section de projet sur l’accueil"
+
+#: functions/customizer/custo_sections_settings.php:112
+#: functions/customizer/custo_sections_settings.php:298
+msgid "Button Link"
+msgstr "Lien du bouton"
+
+#: functions/customizer/custo_sections_settings.php:96
+#: functions/customizer/custo_sections_settings.php:288
+msgid "Button Text"
+msgstr "Texte du bouton"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:443
+#: functions/customizer-repeater/class/customizer-repeater-control.php:479
+msgid "Icon"
+msgstr "Icône"
+
+#: functions/customizer/custo_template_settings.php:177
+#: functions/customizer/custo_sections_settings.php:79
+#: functions/customizer/custo_sections_settings.php:250
+#: functions/customizer/custo_sections_settings.php:382
+#: functions/customizer/custo_sections_settings.php:432
+#: functions/customizer/custo_sections_settings.php:496
+#: functions/customizer/custo_sections_settings.php:559
+#: functions/customizer/custo_sections_settings.php:621
+#: functions/customizer/custo_sections_settings.php:719
+#: functions/customizer/custo_sections_settings.php:759
+#: functions/customizer/custo_sections_settings.php:848
+#: functions/customizer-repeater/class/customizer-repeater-control.php:256
+msgid "Description"
+msgstr "Description"
+
+#: functions/customizer/custo_template_settings.php:166
+#: functions/customizer/custo_sections_settings.php:64
+#: functions/customizer/custo_sections_settings.php:231
+#: functions/customizer/custo_sections_settings.php:367
+#: functions/customizer/custo_sections_settings.php:710
+#: functions/customizer/custo_sections_settings.php:750
+#: functions/customizer/custo_sections_settings.php:837
+#: functions/customizer-repeater/class/customizer-repeater-control.php:242
+#: functions/customizer-repeater/class/customizer-repeater-control.php:344
+msgid "Title"
+msgstr "Titre"
+
+#: theme_setup_data.php:40 theme_setup_data.php:45
+#: functions/customizer/custo_sections_settings.php:58
+msgid "Responsive WP theme"
+msgstr "Thème WP responsive"
+
+#: functions/customizer/custo_sections_settings.php:46
+#: functions/customizer/custo_sections_settings.php:413
+#: functions/customizer/custo_sections_settings.php:476
+#: functions/customizer/custo_sections_settings.php:540
+#: functions/customizer/custo_sections_settings.php:603
+#: functions/customizer-repeater/class/customizer-repeater-control.php:466
+#: functions/customizer-repeater/class/customizer-repeater-control.php:480
+msgid "Image"
+msgstr "Image"
+
+#: functions/customizer/custo_sections_settings.php:189
+msgid "Infobar text"
+msgstr "Texte de la barre d’info"
+
+#: functions/customizer/custo_post_slugs_settings.php:73
+msgid "After changing the slug, please don't forget to save the permalinks. Without saving them, the old permalinks will not be updated."
+msgstr "Après le changement d’identifiant, veuillez ne pas oublier d’enregistrer les permaliens. Sans cela, les anciens permaliens ne seront pas mis à jour."
+
+#: functions/customizer/custo_post_slugs_settings.php:49
+msgid "Project’s category slug "
+msgstr "Identifiant de catégorie des projets"
+
+#: functions/customizer/custo_layout_manager_settings.php:10
+msgid "Theme Layout Manager"
+msgstr "Gestion de la mise en page du thème"
+
+#: functions/customizer/custo_general_settings.php:105
+msgid "Footer copyright settings"
+msgstr "Réglages du droit d’auteur du pied de page"
+
+#: functions/customizer/custo_general_settings.php:68
+msgid "Enter Logo Height"
+msgstr "Saisissez la hauteur du logo"
+
+#: functions/customizer/custo_general_settings.php:59
+msgid "Enter Logo Width"
+msgstr "Saisissez la largeur du logo"
+
+#: comments.php:58 index-blog.php:41
+msgid "Leave a Reply"
+msgstr "Répondre"
+
+#: comments.php:56
+msgid "Send Message"
+msgstr "Envoyer le message"
+
+#: comments.php:54
+msgid "Logout"
+msgstr "Déconnexion"
+
+#: comments.php:45 functions/customizer/custo_template_settings.php:260
+msgid "Email"
+msgstr "E-mail"
+
+#: comments.php:44
+msgid "Name"
+msgstr "Nom"
+
+#: comments.php:38
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment"
+msgstr "Vous devez être <a href=\"%s\">connecté</a> pour publier un commentaire"
+
+#: archive.php:29
+msgid "Blog Archive "
+msgstr "Archives du blog"
+
+#: archive.php:17
+msgid "Daily Archive "
+msgstr "Archive quotidienne"
+
+#: 404.php:17
+msgid "Go Back"
+msgstr "Retour"
+
+#: 404.php:15
+msgid "Oops! Page not found"
+msgstr "Aïe ! Page non trouvée"
+
+#: 404.php:14 functions/breadcrumbs/breadcrumbs.php:103
+msgid "Error 404"
+msgstr "Erreur 404"
+
+#. Template Name of the theme
+msgid "Page Fullwidth"
+msgstr "Pleine largeur"
+
+#: theme_setup_data.php:91 functions/customizer/custo_sections_settings.php:222
+msgid "Awesome Services"
+msgstr "Services formidables"
+
+#: tag.php:14
+msgid "Tag  Archive"
+msgstr "Archive d’étiquette"
+
+#: functions/widgets/custom-widgets.php:17
+#: functions/widgets/custom-widgets.php:19
+msgid "Footer widget area"
+msgstr "Zone de widgets de pied de page"
+
+#: functions/customizer/custo_template_settings.php:311
+msgid "Want to add a taxonomy archive portfolio template? Then"
+msgstr "Vous voulez ajouter une taxonomie de modèle d’archive de portfolio ? "
+
+#: functions/customizer/custo_template_settings.php:294
+msgid "Google Maps URL"
+msgstr "URL de la Google Map"
+
+#: functions/customizer/custo_template_settings.php:281
+msgid "Enable Google Maps"
+msgstr "Activer les Google Maps"
+
+#: functions/customizer/custo_template_settings.php:194
+msgid "Want to add contact template, Google Maps or Contact form? Then"
+msgstr "Vous voulez ajouter un modèle de contact, une Google Map ou un formulaire de contact ? "
+
+#: functions/customizer/custo_template_settings.php:140
+msgid "Want to add project templates, like: Project 2 column, 3 column, 4 column, or portfolio categorisation? Then"
+msgstr "Vous voulez ajouter des modèles de projet, comme : Projet 2 colonnes, 3 colonnes, 4 colonnes ou une catégorisation de portfolio ? "
+
+#: functions/customizer/custo_template_settings.php:107
+msgid "Enable Testimonial section"
+msgstr "Activer la section de témoignage"
+
+#: functions/customizer/custo_template_settings.php:80
+msgid "Want to add service template, testimonial section or client section? Then"
+msgstr "Vous voulez ajouter un modèle de service, une section de témoignage ou une section client ? "
+
+#: functions/customizer/custo_template_settings.php:60
+#: functions/customizer/custo_template_settings.php:120
+msgid "Enable Client section"
+msgstr "Activer la section de client"
+
+#: functions/customizer/custo_template_settings.php:47
+msgid "Enable Team section"
+msgstr "Activer la section d’équipe"
+
+#: functions/customizer/custo_template_settings.php:22
+msgid "Want to add about us template, team section, or client section? Then"
+msgstr "Vous voulez un modèle à propos de nous, une section d’équipe ou une section client ? "
+
+#: functions/customizer/custo_template_settings.php:8
+msgid "Template settings"
+msgstr "Réglages des modèles"
+
+#: functions/customizer/custo_sections_settings.php:886
+msgid "Click here to add client"
+msgstr "Cliquez ici pour ajouter un client"
+
+#: functions/customizer/custo_sections_settings.php:823
+msgid "Enable Home Client section"
+msgstr "Activer la section de client sur l’accueil"
+
+#: functions/customizer/custo_sections_settings.php:796
+msgid "Want to add a Client section with slider animations? Then"
+msgstr "Vous voulez ajouter une section de client avec des animations de diaporama ? "
+
+#: functions/customizer/custo_sections_settings.php:786
+msgid "Client Slider setting"
+msgstr "Réglage du diaporama de client"
+
+#: functions/customizer/custo_sections_settings.php:675
+msgid "Recent Blog setting"
+msgstr "Réglages de blog récent"
+
+#: theme_setup_data.php:147 theme_setup_data.php:152
+msgid "(Sales & Marketing)"
+msgstr "(Ventes et marketing)"
+
+#: functions/customizer/custo_sections_settings.php:747
+msgid "<b>Our</b> Testimonials"
+msgstr "<b>Nos</b> témoignages"
+
+#: functions/customizer/custo_sections_settings.php:728
+msgid "Testimonial settings"
+msgstr "Réglages des témoignages"
+
+#: functions/customizer/custo_sections_settings.php:650
+msgid "Want to add more projects and categorisations? Then upgrade to Pro."
+msgstr "Vous voulez ajouter plus de projets avec des catégorisations ? Passez à la version Pro."
+
+#: functions/customizer/custo_sections_settings.php:340
+msgid "Project settings"
+msgstr "Réglages des projets"
+
+#: functions/customizer/custo_sections_settings.php:196
+msgid "Service settings"
+msgstr "Réglages des services"
+
+#: functions/customizer/custo_sections_settings.php:26
+msgid "Enable slider"
+msgstr "Activer le diaporama"
+
+#: functions/customizer/custo_sections_settings.php:18
+msgid "Slider settings"
+msgstr "Réglages du diaporama"
+
+#: functions/customizer/custo_sections_settings.php:175
+msgid "Enable Infobar"
+msgstr "Activer la barre info"
+
+#: functions/customizer/custo_sections_settings.php:167
+msgid "Infobar settings"
+msgstr "Réglages de la barre d’info"
+
+#: functions/customizer/custo_sections_settings.php:13
+msgid "Homepage section settings"
+msgstr "Réglages de section de page d’accueil"
+
+#: functions/customizer/custo_post_slugs_settings.php:60
+msgid "Team slug"
+msgstr "Identifiant d’équipe"
+
+#: functions/customizer/custo_post_slugs_settings.php:39
+msgid "Projects slug"
+msgstr "Identifiant des projets"
+
+#: functions/customizer/custo_post_slugs_settings.php:13
+msgid "Want to add a custom post type slug? Then"
+msgstr "Vous voulez ajouter un identifiant de type de contenu personnalisé ? "
+
+#: functions/customizer/custo_layout_manager_settings.php:137
+msgid "Section 5"
+msgstr "Section 5"
+
+#: functions/customizer/custo_layout_manager_settings.php:116
+msgid "Section 4"
+msgstr "Section 4"
+
+#: functions/customizer/custo_layout_manager_settings.php:95
+msgid "Section 3"
+msgstr "Section 3"
+
+#: functions/customizer/custo_layout_manager_settings.php:73
+msgid "Section 2"
+msgstr "Section 2"
+
+#: functions/customizer/custo_layout_manager_settings.php:49
+msgid "Section 1"
+msgstr "Section 1"
+
+#: functions/customizer/custo_layout_manager_settings.php:20
+msgid "Want to change the Homepage layout section? Then"
+msgstr "Vous voulez changer la mise en page de la section de la page d’accueil ? "
+
+#: functions/customizer/custo_general_settings.php:189
+msgid "LinkedIn URL"
+msgstr "URL de LinkedIn"
+
+#: functions/customizer/custo_general_settings.php:179
+msgid "Facebook URL"
+msgstr "URL de Facebook"
+
+#: functions/customizer/custo_general_settings.php:169
+msgid "Twitter URL"
+msgstr "URL de Twitter"
+
+#: functions/customizer/custo_general_settings.php:156
+msgid "Enable footer's social icons"
+msgstr "Activer les icônes sociaux du pied de page"
+
+#: functions/customizer/custo_general_settings.php:130
+msgid "Want to add social icons? Then"
+msgstr "Vous voulez ajouter plus d’icônes sociaux ? "
+
+#: functions/customizer/custo_general_settings.php:122
+#: functions/customizer-repeater/class/customizer-repeater-control.php:489
+msgid "Social icons"
+msgstr "Icônes sociaux"
+
+#: functions/customizer/custo_general_settings.php:50
+msgid "Upload logo"
+msgstr "Mettre en ligne un logo"
+
+#: functions/customizer/custo_general_settings.php:31
+msgid "Enable front page"
+msgstr "Activer la page d’accueil"
+
+#: functions/customizer/custo_general_settings.php:13
+msgid "Front page"
+msgstr "Page d'accueil"
+
+#: functions/customizer/custo_general_settings.php:8
+msgid "General settings"
+msgstr "Réglages généraux"
+
+#: functions/customizer/cust_pro.php:77
+msgid "The Pro Version gives you more opportunities to enhance your site and business. In order to create effective online presence one have to showcase their wide range of products, have to use contact us enquiry form, have to make effective about us page, have to introduce team members, etc etc . The pro version will give it all. Buy the pro version and give us a chance to serve you better."
+msgstr "La version Pro vous offre plus d’opportunités pour améliorer votre site et votre entreprise. Tout d’abord, pour créer une présence en ligne efficace vous devez mettre en vitrine une large gamme de produits, avoir une page de contact avec un formulaire de renseignements, une page à propos de vous efficace, une page présentant votre équipe, etc. La version Pro vous donne tout cela. Achetez la version pro et donnez nous une chance de mieux vous servir."
+
+#: functions/customizer/cust_pro.php:73
+msgid "DOCUMENTATION"
+msgstr "DOCUMENTATION"
+
+#: functions/customizer/cust_pro.php:46
+msgid "ADD YOUR REVIEW"
+msgstr "DONNEZ VOTRE AVIS"
+
+#: functions/commentbox/comment-function.php:41
+msgid "%s"
+msgstr "%s"
+
+#: archive.php:70 index.php:27 tag.php:51 search.php:36 category.php:51
+#: author.php:52
+msgid "Next"
+msgstr "Suivant"
+
+#: archive.php:69 index.php:26 tag.php:50 search.php:35 category.php:50
+#: author.php:51
+msgid "Previous"
+msgstr "Précédent"
+
+#: 404.php:16
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "Nous sommes désolés, mais la page que vous recherchez n’existe pas."
+
+#: theme_setup_data.php:142 theme_setup_data.php:153 theme_setup_data.php:156
+#: functions/customizer/custo_sections_settings.php:716
+#: functions/customizer/custo_sections_settings.php:756
+msgid "We are a group of passionate designers & developers"
+msgstr "Nous sommes un groupe de concepteurs et de développeurs passionnés"
+
+#: theme_setup_data.php:120 theme_setup_data.php:125 theme_setup_data.php:130
+#: theme_setup_data.php:135
+#: functions/customizer/custo_sections_settings.php:426
+#: functions/customizer/custo_sections_settings.php:490
+#: functions/customizer/custo_sections_settings.php:553
+#: functions/customizer/custo_sections_settings.php:615
+msgid "Graphic design & web design"
+msgstr "Conception graphique et internet"
+
+#: theme_setup_data.php:118 theme_setup_data.php:123 theme_setup_data.php:128
+#: theme_setup_data.php:133
+#: functions/customizer/custo_sections_settings.php:392
+#: functions/customizer/custo_sections_settings.php:455
+#: functions/customizer/custo_sections_settings.php:519
+#: functions/customizer/custo_sections_settings.php:582
+msgid "Business cards"
+msgstr "Cartes d’entreprise"
+
+#: search.php:28
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à vos critères de recherche. Veuillez réessayer avec d’autres mots-clés."
+
+#: search.php:27
+msgid "Nothing Found"
+msgstr "Rien de trouvé"
+
+#: functions.php:75
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: functions/customizer/custo_template_settings.php:23
+#: functions/customizer/custo_template_settings.php:81
+#: functions/customizer/custo_template_settings.php:140
+#: functions/customizer/custo_template_settings.php:195
+#: functions/customizer/custo_template_settings.php:312
+#: functions/customizer/custo_post_slugs_settings.php:13
+#: functions/customizer/custo_general_settings.php:132
+#: functions/customizer/cust_pro.php:13 functions/customizer/cust_pro.php:20
+#: functions/customizer/custo_layout_manager_settings.php:20
+#: functions/customizer/custo_sections_settings.php:145
+#: functions/customizer/custo_sections_settings.php:317
+#: functions/customizer/custo_sections_settings.php:653
+#: functions/customizer/custo_sections_settings.php:797
+msgid "Upgrade to Pro"
+msgstr "Passez à la version Pro"
+
+#: functions/customizer/custo_sections_settings.php:207
+msgid "Enable Services on homepage"
+msgstr "Activer les services sur la page d’accueil"
+
+#: functions/customizer/custo_general_settings.php:87
+#: functions/customizer/custo_general_settings.php:97
+msgid "Custom CSS"
+msgstr "CSS personnalisé"
+
+#: functions/customizer/custo_general_settings.php:42
+msgid "Custom logo"
+msgstr "Logo personnalisé"
+
+#: index-services.php:172 functions/customizer/customizer.php:85
+#: functions/customizer/customizer.php:130
+msgid "Web Design"
+msgstr "Conception web"
+
+#: theme_setup_data.php:86 theme_setup_data.php:115
+#: functions/customizer/custo_sections_settings.php:285
+msgid "More Services"
+msgstr "Plus de services"
+
+#: functions/customizer/custo_sections_settings.php:272
+msgid "Service"
+msgstr "Service"
+
+#: theme_setup_data.php:41 theme_setup_data.php:46 theme_setup_data.php:62
+#: theme_setup_data.php:79 theme_setup_data.php:92 theme_setup_data.php:145
+#: theme_setup_data.php:150
+#: functions/customizer/custo_template_settings.php:174
+#: functions/customizer/custo_sections_settings.php:73
+#: functions/customizer/custo_sections_settings.php:242
+#: functions/customizer/custo_sections_settings.php:376
+#: functions/customizer/custo_sections_settings.php:845
+msgid "We are a group of passionate designers and developers who really love creating awesome WordPress themes & giving support."
+msgstr "Nous sommes un groupe de concepteurs et de développeurs passionnés qui aiment vraiment créer de superbes thèmes WordPress et apporter leur aide."
+
+#: theme_setup_data.php:155
+#: functions/customizer/custo_sections_settings.php:707
+msgid "Recent Blog"
+msgstr "Blog récent"
+
+#: functions/customizer/custo_sections_settings.php:773
+msgid "Testimonial"
+msgstr "Témoignages"
+
+#: functions/customizer/custo_sections_settings.php:588
+msgid "Project Four"
+msgstr "Projet quatre"
+
+#: functions/customizer/custo_sections_settings.php:525
+msgid "Project Three"
+msgstr "Projet trois"
+
+#: functions/customizer/custo_sections_settings.php:461
+msgid "Project Two"
+msgstr "Projet deux"
+
+#: functions/customizer/custo_sections_settings.php:398
+msgid "Project One"
+msgstr "Projet un"
+
+#: theme_setup_data.php:78 functions/customizer/custo_template_settings.php:163
+#: functions/customizer/custo_sections_settings.php:361
+msgid "Recent Projects"
+msgstr "Projets récents"
+
+#: functions/customizer/custo_general_settings.php:114
+msgid "Copyright text"
+msgstr "Texte du droit d’auteur"
+
+#. Template Name of the theme
+#: functions/menu/default_menu_walker.php:23
+#: functions/breadcrumbs/breadcrumbs.php:6
+msgid "Home"
+msgstr "Accueil"
+
+#: functions/commentbox/comment-function.php:45
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: functions/commentbox/comment-function.php:30
+msgid "Reply"
+msgstr "Répondre"
+
+#: comments.php:54
+msgid "Logged in as"
+msgstr "Connecté·e en tant que"
+
+#: comments.php:20 comments.php:30
+msgid "Newer Comments &rarr;"
+msgstr "Commentaires plus récents &rarr;"
+
+#: comments.php:19 comments.php:29
+msgid "&larr; Older Comments"
+msgstr "&larr; Commentaires plus anciens"
+
+#: comments.php:18 comments.php:28
+msgid "Comment navigation"
+msgstr "Navigation des commentaires"
+
+#: comments.php:15
+msgid "Comment"
+msgstr "Commentaire"
+
+#: comments.php:11
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Cet article est protégé par un mot de passe. Saisissez le mot de passe pour lire les commentaires."
+
+#: category.php:14
+msgid "Category Archive "
+msgstr "Archives de catégorie"
+
+#: theme_setup_data.php:42 theme_setup_data.php:47 index-blog.php:53
+#: content.php:37
+msgid "Read More"
+msgstr "Lire la suite"
+
+#: content.php:27
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+#: archive.php:25
+msgid "Yearly Archive "
+msgstr "Archive annuelle"
+
+#: archive.php:21
+msgid "Monthly Archive "
+msgstr "Archive mensuelle"
+
+#: searchform.php:14 searchform.php:15
+msgid "Search"
+msgstr "Rechercher"
+
+#. Theme URI of the theme
+msgid "https://webriti.com/busiprof-premium-wordpress-theme-1/"
+msgstr "https://webriti.com/busiprof-premium-wordpress-theme-1/"
+
+#. Author URI of the theme
+msgid "https://www.webriti.com"
+msgstr "https://www.webriti.com"
+
+#. Author of the theme
+msgid "webriti"
+msgstr "webriti"
